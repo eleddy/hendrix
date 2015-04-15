@@ -1,8 +1,12 @@
+.Python
 *.pyc
 .project
 .pydevproject
+bin
 build
 dist
+include
+lib
 hendrix.egg-info
 twisted/plugins/dropin.cache
 hendrix/pids
