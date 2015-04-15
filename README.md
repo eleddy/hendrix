@@ -2,7 +2,7 @@
 **Twisted meets Django: *Making deployment easy***
 
 ##Overview
-
+ 
 Hendrix is a **multi-threaded**, **multi-process** *and* **asynchronous**
 web server for *Django* projects. The idea here is to have a highly extensible
 wsgi deployment tool that is fast, transparent and easy to use.
